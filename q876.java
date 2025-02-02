@@ -1,3 +1,4 @@
+package Leetcode_solution;
 import java.util.*;
 public class q876 {
 public static class ListNode {
